@@ -1,4 +1,2 @@
 #!/bin/bash
-cd
-pwd
-
+pwd cd/home
