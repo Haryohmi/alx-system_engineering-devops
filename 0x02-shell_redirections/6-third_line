@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd ls -n 3 iacta
+head -n 3 iactta | tail -n 1
